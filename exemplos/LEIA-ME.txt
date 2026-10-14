@@ -1,0 +1,2 @@
+Imagens da seção Exemplos, uma por área: vendas, financeiro, rh, marketing, estoque (.png, .jpg ou .webp).
+As atuais são painéis de exemplo com dados fictícios. Para usar um print seu, substitua o arquivo da área.

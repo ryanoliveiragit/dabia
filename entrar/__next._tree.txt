@@ -1,0 +1,6 @@
+:HL["/dabia/_next/static/chunks/19c5pcd75t09d.css","style"]
+:HL["/dabia/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/dabia/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"entrar","h":96,"c":"$Q2"}]]
+0:{"b":"SmJ0J4gEtoOloOTywgrQh","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

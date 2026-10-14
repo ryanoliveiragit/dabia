@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:"/dabia/_next/static/chunks/11krh8rg24kdu.js"
+3:"/dabia/_next/static/chunks/35n7ja33iwt0o.js"
+4:"/dabia/_next/static/chunks/2iozdvteoyv9d.js"
+5:I[41852,["$2","$3","$4"],"CurtainProvider"]
+6:I[80331,["$2","$3","$4"],"default"]
+7:I[60405,["$2","$3","$4"],"default"]
+e:"/dabia/_next/static/chunks/1xtd1qbt7tjih.js"
+f:I[3320,["$2","$3","$4","$e"],""]
+10:I[29870,["$2","$3","$4","$e"],"BookingWizard"]
+11:I[24849,["$2","$3","$4"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[24849,["$2","$3","$4"],"$15"]
+17:"MetadataBoundary"
+18:I[24849,["$2","$3","$4"],"$17"]
+19:I[34245,["$2","$3","$4"],"IconMark"]
+:HL["/dabia/_next/static/chunks/19c5pcd75t09d.css","style"]
+9:X
+c:X
+c:C
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","header",null,{"className":"mx-auto flex h-20 w-full max-w-6xl items-center justify-between px-5 sm:px-8","children":[["$","$Lf",null,{"href":"/","className":"text-lg font-semibold tracking-tight","children":"Dabia"}],["$","$Lf",null,{"href":"/alunos/","className":"text-sm whitespace-nowrap transition-colors hover:text-muted","children":"Área de alunos"}]]}],["$","main",null,{"className":"mx-auto w-full max-w-6xl flex-1 px-5 pt-6 pb-20 sm:px-8 sm:pt-10","children":[["$","h1",null,{"className":"max-w-[16ch] text-4xl leading-[1.05] font-medium tracking-tight sm:text-5xl","children":"Monte o seu plano de aulas"}],["$","$L10",null,{"products":[{"id":"aula-particular","kind":"aula","name":"Aula particular","summary":"Uma hora ao vivo, só eu e você, sobre o tema que você escolher.","topics":[],"price_cents":7500,"featured":false,"position":1,"lessons":1,"duration_min":60},{"id":"pacote-4-aulas","kind":"aula","name":"Pacote de 4 aulas","summary":"Quatro encontros com um plano de estudo montado para o seu objetivo.","topics":[],"price_cents":27000,"featured":true,"position":2,"lessons":4,"duration_min":60},{"id":"pacote-8-aulas","kind":"aula","name":"Pacote de 8 aulas","summary":"Oito encontros para sair do zero e chegar a um painel completo.","topics":[],"price_cents":51000,"featured":false,"position":3,"lessons":8,"duration_min":60},{"id":"consultoria","kind":"consultoria","name":"Sessão de consultoria","summary":"Uma hora e meia olhando seus dados e relatórios, com um plano de ação no final.","topics":[],"price_cents":35000,"featured":false,"position":4,"lessons":1,"duration_min":90}]}]]}]],[["$","script","script-0",{"src":"/dabia/_next/static/chunks/1xtd1qbt7tjih.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$9"}}]]
+a:[["children",{"s":"agendar","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/dabia/_next/static/chunks/19c5pcd75t09d.css","precedence":"next"}],["$","script","script-0",{"src":"/dabia/_next/static/chunks/11krh8rg24kdu.js","async":true}],["$","script","script-1",{"src":"/dabia/_next/static/chunks/35n7ja33iwt0o.js","async":true}],["$","script","script-2",{"src":"/dabia/_next/static/chunks/2iozdvteoyv9d.js","async":true}]],["$","html",null,{"lang":"pt-BR","data-scroll-behavior":"smooth","className":"T19VSG_variable _8Li5zG_variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col font-sans","children":["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Agendar aula | Dabia"}],["$","meta","1",{"name":"description","content":"Ao vivo, só eu e você, no seu ritmo e com os seus dados. Também faço consultoria para empresas."}],["$","link","2",{"rel":"icon","href":"/dabia/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L19","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$9"}},"a":"$@1b","u":"$@1c","b":"SmJ0J4gEtoOloOTywgrQh"}
+13:null
+9:300
+1c:true
+9:C
+1b:0
+b:"$undefined"
+8:"$undefined"
+1a:"$undefined"
+14:"$undefined"
