@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:"/dabia/_next/static/chunks/1-429orvohj59.js"
+3:"/dabia/_next/static/chunks/2yih7ffvcmf-z.js"
+4:"/dabia/_next/static/chunks/1wx_i3ppcf9rc.js"
+5:I[41852,["$2","$3","$4"],"CurtainProvider"]
+6:I[80331,["$2","$3","$4"],"default"]
+7:I[60405,["$2","$3","$4"],"default"]
+b:I[40587,["$2","$3","$4"],"ClientPageRoot"]
+c:"/dabia/_next/static/chunks/10z7dsj-ys8du.js"
+d:"/dabia/_next/static/chunks/4540tp6e5yf41.js"
+e:"/dabia/_next/static/chunks/0jgjva6p1eddx.js"
+f:"/dabia/_next/static/chunks/3-kta70gt-iog.js"
+10:I[17680,["$2","$3","$4","$c","$d","$e","$f"],"default"]
+13:I[24849,["$2","$3","$4"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[24849,["$2","$3","$4"],"$16"]
+19:"MetadataBoundary"
+1a:I[24849,["$2","$3","$4"],"$19"]
+1c:I[73425,["$2","$3","$4"],"default",1]
+:HL["/dabia/_next/static/chunks/1yh3tm5n6mna-.css","style"]
+:HL["/dabia/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/dabia/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/dabia/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+9:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Lb",null,{"Component":"$10","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@11","$@12"]}}],[["$","script","script-0",{"src":"/dabia/_next/static/chunks/10z7dsj-ys8du.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/dabia/_next/static/chunks/4540tp6e5yf41.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/dabia/_next/static/chunks/0jgjva6p1eddx.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/dabia/_next/static/chunks/3-kta70gt-iog.js","async":true,"nonce":"$undefined"}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":"alunos","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","alunos",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/dabia/_next/static/chunks/1yh3tm5n6mna-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/dabia/_next/static/chunks/1-429orvohj59.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/dabia/_next/static/chunks/2yih7ffvcmf-z.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/dabia/_next/static/chunks/1wx_i3ppcf9rc.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"pt-BR","data-scroll-behavior":"smooth","className":"T19VSG_variable _8Li5zG_variable VG3uDa_variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col font-sans","children":["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":"$L1b"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1c",[["$","link","0",{"rel":"stylesheet","href":"/dabia/_next/static/chunks/1yh3tm5n6mna-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"B2TAFz7fZfGbdrdrBIKdc"}
+9:C
+11:{}
+12:"$a:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1d:I[34245,["$2","$3","$4"],"IconMark"]
+15:null
+1b:[["$","title","0",{"children":"DaBIa | Aulas particulares e consultoria de Power BI"}],["$","meta","1",{"name":"description","content":"Ao vivo, só eu e você, no seu ritmo e com os seus dados. Também faço consultoria para empresas."}],["$","link","2",{"rel":"icon","href":"/dabia/icon.png?icon.3c44vfxkn95c9.png","sizes":"512x512","type":"image/png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/dabia/apple-icon.png?apple-icon.3c44vfxkn95c9.png","sizes":"512x512","type":"image/png"}],["$","$L1d","4",{}]]
